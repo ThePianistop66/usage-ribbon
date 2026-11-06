@@ -1,0 +1,5 @@
+{
+  "name": "usage-ribbon",
+  "owner": { "name": "ThePianistop66" },
+  "plugins": [{ "name": "usage-ribbon", "source": "./" }]
+}
